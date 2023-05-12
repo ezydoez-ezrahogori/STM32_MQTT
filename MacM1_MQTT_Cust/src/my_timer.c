@@ -1,8 +1,8 @@
 /*
  * my_timer.c
  *
- *  Created on: Oct 25, 2021
- *      Author: Olaf
+ *  Created on: May 2, 2023
+ *      Author: Ezrah Buki
  */
 /*mytimer.c*/
 
