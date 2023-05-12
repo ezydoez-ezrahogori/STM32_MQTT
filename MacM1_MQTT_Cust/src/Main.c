@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : Main.c
- Author      : Olaf Huerta
+ Author      : Ezrah Buki
  Version     : 0.0.1
  Copyright   : Your copyright notice
  ============================================================================
@@ -76,8 +76,8 @@ int main(int argc, char *argv[])
 	mosquitto_lib_init();
 
 	mosq = (struct mosquitto *)mosquitto_new(clientid, true, 0);
-	mosq->username = "olaf";
-	mosq->password = "olaf97";
+	mosq->username = "Buki";
+	mosq->password = "Leo01";
 
 	if(mosq){
 		mosquitto_connect_callback_set(mosq, connect_callback);
