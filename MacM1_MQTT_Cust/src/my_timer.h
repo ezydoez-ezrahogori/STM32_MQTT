@@ -1,8 +1,8 @@
 /*
  * my_timer.h
  *
- *  Created on: Oct 25, 2021
- *      Author: Olaf
+ *  Created on: May 3, 2023
+ *      Author: Ezrah Buki
  */
 
 #ifndef MY_TIMER_H_
